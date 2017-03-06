@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArtApp</string>
+    <string name="dummy_screen_title">ArtApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen_text">Text</string>
+    <string name="button_label">Button</string>
+</resources>
