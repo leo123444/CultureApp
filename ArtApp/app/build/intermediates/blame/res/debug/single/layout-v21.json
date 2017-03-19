@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\eleonora\\Desktop\\proyectos\\PartyApp\\ArtApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\eleonora\\.android\\build-cache\\c34327049f2d278a21f3f264d91d0c858900f92c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\eleonora\\Desktop\\proyectos\\PartyApp\\ArtApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\eleonora\\.android\\build-cache\\c34327049f2d278a21f3f264d91d0c858900f92c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\eleonora\\Desktop\\proyectos\\PartyApp\\ArtApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\eleonora\\.android\\build-cache\\c34327049f2d278a21f3f264d91d0c858900f92c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\eleonora\\Desktop\\proyectos\\PartyApp\\ArtApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\eleonora\\.android\\build-cache\\c34327049f2d278a21f3f264d91d0c858900f92c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
